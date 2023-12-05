@@ -67,7 +67,7 @@
 
 #completions table tr .title,
 #completions table tr td.excmd {
-  color: var(--blue);
+  color: var(--teal);
 }
 
 #completions .sectionHeader {
