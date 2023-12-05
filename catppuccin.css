@@ -17,7 +17,7 @@
   --sky: #89dceb;
   --lavender: #c9cbff;
   --rosewater: #f5e0dc;
-  --font: "JetBrainsMono Nerd Font";
+  --font: "Ubuntu Nerd Font";
 
   /* vimium theme uses colors: flamingo, peach, rosewater, green, blue, lavender */
   --tridactyl-fg: var(--fg);
